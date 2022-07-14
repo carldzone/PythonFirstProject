@@ -75,3 +75,5 @@ class run_workout_program():
             workout_dictionary_list.append(workout_prog_output)
     
     print(workout_dictionary_list)
+
+print('Something I want to try in my repo!')
